@@ -2,5 +2,5 @@
 # out the current state.
 def display_board
   rows = ["   |   |   ", "-----------", "   |   |   ","-----------", "   |   |   "]
-puts "(rows[0])"
+puts "#{rows[0]}, #{rows[1]}, #{rows[2]}, #{rows[3]}, #{rows[4]}"
 end
