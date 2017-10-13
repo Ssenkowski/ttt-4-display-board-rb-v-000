@@ -10,4 +10,4 @@ end
 
 board = [" "," "," "," "," "," "," "," "," "]
 
-display_board(the_board)
+display_boardboard)
