@@ -8,6 +8,6 @@ puts "-----------"
 puts " #{the_board[6]}  | #{the_board[7]}  | #{the_board[8]}  "
 end
 
-board = [" "," "," "," ","x"," "," "," "," "]
+board = [" "," "," "," "," "," "," "," "," "]
 
 display_boardboard)
